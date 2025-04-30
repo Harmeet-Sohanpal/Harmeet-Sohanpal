@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harmeet-Sohanpal
-- 👀 I’m interested in Full Stack Web Devlopment
-- 🌱 I’m currently learning MERN Stack, DSA
+- 🌐 https://harmeetsohanpal.com/
 - 📫 You Can React Me On LinkedIn (https://www.linkedin.com/in/harmeet-singh-sohanpal-b84b3921a/)
 
 
