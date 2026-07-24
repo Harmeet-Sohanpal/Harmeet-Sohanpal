@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harmeet-Sohanpal
-- 🌐 https://harmeetsohanpal.com/
+- 🌐 https://harmeetsohanpal.com/ OR  https://harmeetsohanpal.netlify.app/
 - 📫 You Can React Me On LinkedIn (https://www.linkedin.com/in/harmeet-singh-sohanpal-b84b3921a/)
 
 
